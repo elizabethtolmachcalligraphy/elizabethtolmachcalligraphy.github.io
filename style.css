@@ -1,0 +1,58 @@
+body {
+  margin: auto;
+}
+
+.jumbotron {
+  text-align: center;
+}
+
+.jumbotron h1 {
+  font-size: 3em;
+  font-family: 'Meddon', cursive;
+}
+
+h3 {
+  font-family: 'Raleway', sans-serif;
+  text-align: center;
+}
+
+.nav-list {
+  list-style-type: none;
+  text-align: center;
+}
+
+.nav-list li {
+  display: inline-block;
+  margin-right: 10px;
+  border: 2px black;
+  padding: 6px;
+  font-family: 'Raleway', sans-serif;
+  font-size: 1.4em;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+a:hover {
+  color: #00b33c;
+}
+
+.on-this-page {
+  color: #00b33c;
+  font-size: 1.4em;
+}
+
+footer {
+  text-align: center;
+  margin-top: 300px;
+  margin-bottom: 60px;
+}
+
+img {
+  max-width: 60%;
+  height: auto;
+  display: block;
+  margin: auto;
+}
